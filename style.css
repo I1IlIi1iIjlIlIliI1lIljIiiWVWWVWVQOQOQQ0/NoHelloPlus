@@ -3,6 +3,7 @@ body {
     font-family: "Ubuntu Sans Mono", monospace;
     margin: 2vw;
     color: white;
+    user-select: none;
 }
 
 .alertContainer {
