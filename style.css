@@ -1,0 +1,18 @@
+body {
+    background-color: #1a1a1a;
+    font-family: "Ubuntu Sans Mono", monospace;
+    margin: 2vw;
+    color: white;
+}
+
+.alertContainer {
+    background-color: #daae11;
+    padding: 1vw;
+    border-radius: 8px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.wrongplace {
+    display: block;
+}
